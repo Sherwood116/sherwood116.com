@@ -1,7 +1,7 @@
 <footer>
 	<img alt="Prepared for Life!" id="footer-prepared" src="/images/prepared_standard_rev.gif" />
 	<p>
-		&copy; 2021 Troop 116 - <a href="http://www.scouting.org/">Boy Scouts of America</a><br />
+		&copy; <?php echo date("Y"); ?> Troop 116 - <a href="http://www.scouting.org/">Scouting America</a><br />
 		<a href="https://cpcbsa.org/">Cascade Pacific Council</a> | <a href="https://cpcbsa.org/members/districts/rivers-edge/">Rivers Edge District</a><br />
 		Chartered by <a href="https://cedarcreeksherwood.org/">Cedar Creek Church</a></p>
 </footer>

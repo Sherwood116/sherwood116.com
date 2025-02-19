@@ -8,7 +8,7 @@
 	<script src="../js/html5shiv-printshiv.js"></script>
 <![endif]-->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-<link href="http://fonts.googleapis.com/css?family=Marcellus" rel="stylesheet" />
+<link href="//fonts.googleapis.com/css?family=Marcellus" rel="stylesheet" />
 <link href="../style.css" rel="stylesheet" />
 <script src="../js/jquery-1.11.1.min.js"></script>
 <script src="../js/jquery.flexnav.min.js"></script>

@@ -29,6 +29,7 @@
 				<li><a href="http://troopmasterweb.com/sherwood116">TroopMaster</a></li>
 		        <li><a href="https://www.facebook.com/people/Sherwood-Troop-116/100085683498178/">Facebook</a></li>
 		        <li><a href="http://sherwood116.com/index.html">Instagram</a></li>
+		        <li><a href="/spring_into_scouting.html">Spring into Scouting</a></li>
 			</ul>
 			</li>
 			<li><a>Partner Links</a>
