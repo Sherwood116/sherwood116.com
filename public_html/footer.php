@@ -3,7 +3,9 @@
 	<p>
 		&copy; <?php echo date("Y"); ?> Troop 116 - <a href="http://www.scouting.org/">Scouting America</a><br />
 		<a href="https://cpcbsa.org/">Cascade Pacific Council</a> | <a href="https://cpcbsa.org/members/districts/rivers-edge/">Rivers Edge District</a><br />
-		Chartered by <a href="https://cedarcreeksherwood.org/">Cedar Creek Church</a></p>
+		Chartered by <a href="https://cedarcreeksherwood.org/">Cedar Creek Church, EIN:26-0519065</a>
+		<br>21901 SW SHERWOOD BLVD, SHERWOOD OR 97140-9326
+	</p>
 </footer>
 
 <div id="credit">
